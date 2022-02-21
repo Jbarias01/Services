@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Application Monitor Axcom\Application_Monitor\bin\Debug\Application_Monitor.exe.config
+C:\Users\PC\source\repos\Application Monitor Axcom\Application_Monitor\bin\Debug\Application_Monitor.exe
+C:\Users\PC\source\repos\Application Monitor Axcom\Application_Monitor\bin\Debug\Application_Monitor.pdb
+C:\Users\PC\source\repos\Application Monitor Axcom\Application_Monitor\obj\Debug\Application_Monitor.ProjectInstaller.resources
+C:\Users\PC\source\repos\Application Monitor Axcom\Application_Monitor\obj\Debug\Application_Monitor.Service1.resources
+C:\Users\PC\source\repos\Application Monitor Axcom\Application_Monitor\obj\Debug\Application_Monitor.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Application Monitor Axcom\Application_Monitor\obj\Debug\Application_Monitor.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Application Monitor Axcom\Application_Monitor\obj\Debug\Application_Monitor.exe
+C:\Users\PC\source\repos\Application Monitor Axcom\Application_Monitor\obj\Debug\Application_Monitor.pdb
+C:\Users\PC\source\repos\Application Monitor Axcom\Application_Monitor\obj\Debug\Application_Monitor.csproj.AssemblyReference.cache
